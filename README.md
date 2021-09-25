@@ -3,7 +3,7 @@ eCommerce customer behaviour is analyzed, by performing Exploratory Data Analysi
 
 # Table of Contents
  1) Installation
- 2) Project Motivation
+ 2) Project Description
  3) File Descriptions
  4) Results
  5) Licensing, Authors, and Acknowledgements
@@ -14,7 +14,7 @@ squarify
 
 Also, due to the data volume is huge and not able to upload, please download the data (2019-Oct.csv) from Kaggle [here](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store?select=2019-Oct.csv).
 
-# 2) Project Motivation
+# 2) Project Description
 In this project, I will use behaviour data from a multi-category eCommerce store taken from Kaggle, perform Exploratory Data Analysis to answer below business questions.
 
 1) What is the daily traffic in Oct?
