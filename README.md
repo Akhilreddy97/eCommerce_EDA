@@ -1,6 +1,5 @@
 # eCommerce_EDA
-eCommerce customer behaviour is analyzed, by performing Exploratory Data Analysis and to answer some business questions based on the analysis results.
-
+Exploratory Data Analysis is performed to identify the customer behaviour pattern and also to answer some of the business questions.
 # Table of Contents
  1) Installation
  2) Project Description
