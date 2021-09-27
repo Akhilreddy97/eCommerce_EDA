@@ -32,7 +32,7 @@ EDA_on_ecommerce_website.ipynb - The notebook is exploratory in searching throug
 The analysis and insights are shared in the IPython file using markdown cells and comments.
 
 # 5) Future Work
-As this is just the analysis of the dataset. In future, could use this analysis to predict if customers buy the product when they add it to their cart. This can be done using Regression models, can test the accuracy levels comparing output of different Machine Learning models and can also decide which model is the best fit for this data. 
+As this is just the analysis of the dataset, I am currently working on applying Machine Learning models to predict whether customers buy the product when they add it to their cart. This can be done using Regression models, can test the accuracy levels comparing output of different Machine Learning models and can also decide which model is the best fit for this data. 
 
 # 6) Licensing, Authors, Acknowledgements
 Must give credit to **REES46 Marketing Platform** & Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store).
